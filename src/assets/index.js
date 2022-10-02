@@ -1,12 +1,12 @@
 import airbnb from "./airbnb.png";
-import bill from "./bill.png";
+import features from "./features.png";
 import binance from "./binance.png";
 import card from "./card.png";
 import coinbase from "./coinbase.png";
 import dropbox from "./dropbox.png";
-import logo from "./logo.svg";
+import logo from "./logo.png";
 import quotes from "./quotes.svg";
-import robot from "./robot.png";
+import hero from "./hero.png";
 import send from "./Send.svg";
 import shield from "./Shield.svg";
 import star from "./Star.svg";
@@ -26,14 +26,14 @@ import people03 from "./people03.png";
 
 export {
   airbnb,
-  bill,
+  features,
   binance,
   card,
   coinbase,
   dropbox,
   logo,
   quotes,
-  robot,
+  hero,
   send,
   shield,
   star,
